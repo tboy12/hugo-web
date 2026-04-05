@@ -13,14 +13,14 @@
       <link>http://localhost:1313/blog/setup/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/setup/</guid>
-      <description>Testing blow with a first page</description>
+      <description>Testing blog with a first post</description>
     </item>
     <item>
       <title>Pain! pain!! pain!!!</title>
       <link>http://localhost:1313/blog/deployment/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/deployment/</guid>
-      <description>successfully wired up hugo theme to my specific need. Some rework for necessary but not without the pain</description>
+      <description>successfully wired up hugo theme to my specific need. Some rework was necessary but not without the pain</description>
     </item>
     <item>
       <title>First blog</title>
