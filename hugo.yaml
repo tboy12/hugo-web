@@ -13,7 +13,7 @@ menu:
     url: /about
     weight: 2
   - name: blog
-    url: /blog
+    url: /post/
     weight: 5
   - name: events
     url: /events
