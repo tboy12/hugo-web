@@ -1,4 +1,6 @@
 baseURL: https://temynet.netlify.app/
+relativeURLs: true
+canonifyURLs: true
 languageCode: en-us
 title: My Home page Site
 
