@@ -4,6 +4,10 @@ canonifyURLs: true
 languageCode: en-us
 title: My Home page Site
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 theme: hugo-initio
 
 menu:
