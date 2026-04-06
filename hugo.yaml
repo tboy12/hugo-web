@@ -4,6 +4,16 @@ canonifyURLs: true
 languageCode: en-us
 title: My Home page Site
 
+author:
+  name: "Miguel Simoni"
+  homepage: "https://miguelsimoni.xyz/"
+
+original:
+  name: "Initio"
+  author: "Sergey Pozhilov"
+  homepage: "http://www.gettemplate.com/info/initio/"
+  repo: "https://github.com/pozh/Initio"
+
 caches:
   images:
     dir: :cacheDir/images
