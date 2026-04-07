@@ -6,4 +6,4 @@ tags: ["page", "skills"]
 categories: ["blog"]
 #image: "images/myimage.jpg"   # optional
 ---
-Finally overcame my "Fear Of NOt Missing Out" (FONOMO) of having my own page
+**Finally** overcame my "Fear Of NOt Missing Out" (FONOMO) of having my own page
