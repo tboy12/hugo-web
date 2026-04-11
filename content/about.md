@@ -1,7 +1,7 @@
 ---
 title: "About me"
-#date: 2026-04-05
-date: false
+date: 2026-04-05
+#date: false
 showDate: false
 hideDate: true
 ---
