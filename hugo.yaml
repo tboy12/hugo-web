@@ -34,10 +34,13 @@ menu:
   - name: events
     url: /events
     weight: 4
+  - name: projects
+    url: /projects
+    weight: 5
 
 params:
   name: Temi Aworanti
-  description: Great minds think differently
+  description: Tech keeps me sharp, travel keeps me inspired, and the outdoors keeps me grounded.
   email: tope.aworanti@gmail.com
   phone: "07525164088"
   address: "@Scotland, UK"

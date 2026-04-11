@@ -5,5 +5,6 @@ description: "testing blog pages"
 tags: ["page", "skills"]
 categories: ["blog"]
 #image: "images/myimage.jpg"   # optional
+comments: true
 ---
 Testing blog with a first post
